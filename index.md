@@ -11,7 +11,6 @@ Data Science Student at the University of Rhode Island
 ---
 ### Work Experience: Senior Sales Specialist at Bank of America
 
-
 ---
 ### Recent Projects: 
 I am working on several awesome projects and i will update soon. sit tight
