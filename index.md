@@ -5,7 +5,7 @@ My name is Sedat Touray, a rising senior at URI. This is my first github develop
 ### Education: 
 Data Science Student at the University of Rhode Island
 
-[Project 1 Title](/sample_page)
+[Gender gap in Entrepreneurship](/https://sites.google.com/view/sedattouray/home)
 <img src="images/IMG_0525.jpg?raw=true"/>
 
 ---
