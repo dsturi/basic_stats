@@ -16,4 +16,5 @@ Data Science Student at the University of Rhode Island
 I am working on several awesome projects and i will update soon. sit tight
 
 
+
 - [Sample Presentation](http://bloose.github.io/pdf/sample_presentation.pdf)
